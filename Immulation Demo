@@ -1,0 +1,14 @@
+package utkarsha;
+
+ class ImmutableDemo {
+	public static void main(String[] args) {
+	String a="Utkarsha";
+	a=a.concat("kanthiwar");
+	System.out.println(a);
+	}
+
+}
+
+-----------
+output
+Utkarshakanthiwar
