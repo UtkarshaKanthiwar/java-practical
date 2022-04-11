@@ -1,0 +1,15 @@
+<html>
+<head>
+<script>
+var x= "mahi";
+const n1=10;
+const n2=20;
+let res= n1+n2;
+document.write("the result is : " + res + "<br>");
+document.write("I am js" + "<br>");
+window.alter("hi...."+ x);
+
+let z=9+7+"mahi"+4+6;
+document.write(z);
+
+</script></head><body></body></html>
