@@ -1,0 +1,15 @@
+<html>
+<head>
+</head>
+<body>
+<script>
+console.log("I am js in console");
+
+function display (){
+let car="Audi";
+document.write("car is : "+ car);}
+</script>
+<button type="button" onclick="display()">Click</button>
+</body>
+
+</html>
