@@ -1,0 +1,20 @@
+<html>
+<body>
+<h1>JS Function </h1>
+<P id="ab"></p>
+<script>
+
+function display (n1,n2){
+return n1*n2;}
+
+document.getElementById("ab").innerHTML=display (10,5);
+</script>
+</body>
+</html>
+
+
+
+
+
+
+// innerHTML use for runtime change 
